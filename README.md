@@ -13,6 +13,8 @@ The FloodNet dataset contains a total of __2343__ images and corresponding masks
 The dataset consists of 10 classes : <br>
 `Background, Building Flooded, Building Non-Flooded, Road flooded, Road Non-flooded, Water, Tree, Vehicle, Pool, Grass `
 
+![image](https://github.com/user-attachments/assets/6461d545-a1a9-4191-ab2b-f2b9fd1c608f)
+
 
 
 
