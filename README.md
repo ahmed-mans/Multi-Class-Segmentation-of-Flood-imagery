@@ -36,11 +36,11 @@ The training data consists of just over 1800 images, which is not enough data to
 
 ## Training Hyperparameters
 
-Epochs: __50__
-Optimizer: __Adam__
-Initial Learning Rate: __0.0001__
-LR scheduler: __ReduceLROnPlateau__
-Batch size: __8__
+- Epochs: __50__<br>
+- Optimizer: __Adam__<br>
+- Initial Learning Rate: __0.0001__<br>
+- LR scheduler: __ReduceLROnPlateau__<br>
+- Batch size: __8__<br>
 
 ## Accuracy on the test set
 
