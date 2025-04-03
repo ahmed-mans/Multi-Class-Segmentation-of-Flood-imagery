@@ -11,7 +11,9 @@ The notebook `FloodNet_segmentation.ipynb` was used to process the images and im
 
 The FloodNet dataset contains a total of __2343__ images and corresponding masks.__1843__ images are dedicated for training and __500__ images are left for the test set for evaluation.
 The dataset consists of 10 classes : <br>
-`Background, Building Flooded, Building Non-Flooded, Road flooded, Road Non-flooded, Water, Tree, Vehicle, Pool, Grass `
+`Background, Building Flooded, Building Non-Flooded, Road flooded, Road Non-flooded, Water, Tree, Vehicle, Pool, Grass ` <br>
+
+Examples:<br>
 
 ![image](https://github.com/user-attachments/assets/6461d545-a1a9-4191-ab2b-f2b9fd1c608f)
 
