@@ -44,5 +44,5 @@ The training data consists of just over 1800 images, which is not enough data to
 
 ## Accuracy on the test set
 
-The trained model based on the configuration mentioned above lead to a dice score of __83.1%__ on the test set on the Kaggle's Leaderboard
+The trained model based on the configuration mentioned above lead to a dice score of __83.1%__ on the test set on the Kaggle's Leaderboard.
 ![image](https://github.com/user-attachments/assets/81cce902-d561-43ca-b517-d939cb291211)
