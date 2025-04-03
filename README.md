@@ -26,7 +26,7 @@ To train the model, the training dataset was split into a training and validatio
 ## Model Architecture
 
 The model architecture chosen to tacke this segmentation task is the __SegFormer__ model, which implementation can be found in the [keras-cv](https://github.com/keras-team/keras-cv) repository.
-The backbone for this model is the MiTBackbone with weights `mit_b0_imagenet` pretrained on imagenet. <br>
+The backbone for this model is the __MiTBackbone__ with weights `mit_b0_imagenet` pretrained on imagenet. <br>
 
 ## Data Augmentation
 
