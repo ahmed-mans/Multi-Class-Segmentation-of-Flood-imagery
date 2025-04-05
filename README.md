@@ -83,7 +83,7 @@ train_transforms = A.Compose ([
         ])
  ```
 
-## Training Hyperparameters
+## ⚙️ Training Hyperparameters
 
 - Epochs: __50__<br>
 - Optimizer: __Adam__<br>
