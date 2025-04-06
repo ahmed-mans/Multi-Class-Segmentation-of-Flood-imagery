@@ -36,14 +36,7 @@ FloodNet features __10__ semantic classes:
 ```
 Examples:<br>
 
-![image](https://github.com/user-attachments/assets/6461d545-a1a9-4191-ab2b-f2b9fd1c608f)
-
-
-
-### Note :
-
-- One can see that the last image sample shown above (bottom right) has its ground truth mask incorrectly labelled. This kind of mistake can be found several times in the training dataset.
-The impact of such wrong data on the quality of the model will be studied in the future by training the model with cleansed data.  
+![image](https://github.com/user-attachments/assets/6461d545-a1a9-4191-ab2b-f2b9fd1c608f) 
 
 ## 🧠 Model Architecture
 
