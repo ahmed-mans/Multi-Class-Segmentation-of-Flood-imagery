@@ -85,7 +85,7 @@ train_transforms = A.Compose ([
 - LR scheduler: __ReduceLROnPlateau__<br>
 - Batch size: __8__<br>
 
-## 📊 Training Metrics
+## 📊 Model Training Progress
 
 The following graphs show the evolution of accuracy, Dice coefficient, and Dice loss throughout the training process. As observed, all metrics and the loss function reach convergence after approximately __35 epochs__.
 
